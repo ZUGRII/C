@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //Test program
+//Author: Georgiana Zugravu
 
 int main()
 {
